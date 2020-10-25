@@ -76,7 +76,10 @@
 						<a class="nav-link" href="/">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="https://i.imgur.com/DySjUUH.png">Duke Nudes</a>
+						<a class="nav-link" href="https://www.google.com/maps">Google Maps</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="https://i.imgur.com/y8PUmes.png">Duke Nudes</a>
 					</li>
 				</div>
 			</ul>
